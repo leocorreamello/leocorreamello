@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Leonardo Mello</h1>
-<h3 align="center">A Software Engineering student in Brazil</h3>
+<div>
+  <h1>Hi 👋, I'm Leonardo Mello</h1>
+  <h3>A Software Engineering student in Brazil</h3>
+</div>
+<br>
+
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocorreamello&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leocorreamello&layout=compact&theme=dark)
 
 <div style="display: inline_block"><br>
   <h3 align="left">Stacks:</h3>
