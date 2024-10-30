@@ -1,6 +1,8 @@
 <div>
   <h1>Hi 👋, I'm Leonardo Mello</h1>
   <h3>A Software Engineering student in Brazil</h3>
+  <h3>Intern at Ticket | Edenred</h3>
+  <h3><a href="https://portfolio-pessoal-gray.vercel.app/" target="_blank">Portfolio</a></h3>
 </div>
 <br>
 
