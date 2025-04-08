@@ -1,7 +1,7 @@
 <div>
-  <h1>Hi 👋, I'm Leonardo Mello</h1>
-  <h3>A Software Engineering student in Brazil</h3>
-  <h3>Intern at Ticket | Edenred</h3>
+  <h1>👋Hello, world! 🌎 I'm Leonardo Mello</h1>
+  <h3>🎓Software Engineering student at FIAP</h3>
+  <h3>💼I am currently an intern at Ticket in the area of software development</h3>
   <h3><a href="https://portfolio-pessoal-gray.vercel.app/" target="_blank">Portfolio</a></h3>
 </div>
 <br>
