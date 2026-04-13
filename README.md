@@ -9,7 +9,7 @@ I'm a software developer with a curiosity for learning and improving. I focus on
 ### 🧳 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,linux,mysql,postman,git,github,bash,maven,mongodb" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,linux,mysql,postman,git,github,bash,angular,maven,mongodb" />
 </p>
 
 ### 🤝 Contact
